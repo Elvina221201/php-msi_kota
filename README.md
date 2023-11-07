@@ -1,1 +1,1 @@
-# php-msi_kota
+# msi_kota
